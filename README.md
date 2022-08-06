@@ -1,1 +1,1 @@
-# C Exercices & Project
+# Language C : Exercices & Final Project
